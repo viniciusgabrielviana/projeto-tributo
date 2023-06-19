@@ -1,0 +1,3 @@
+Este site tem fins para estudo, e todas imagens e textos foram retirados da web.
+
+utilizado apenas para treinar HTML e CSS sem nenhum fim lucrativo
